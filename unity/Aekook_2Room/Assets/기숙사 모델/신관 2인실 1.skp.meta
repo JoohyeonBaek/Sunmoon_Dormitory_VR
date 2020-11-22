@@ -1,0 +1,764 @@
+fileFormatVersion: 2
+guid: 23678417b8ccef84fbe910bad9bdfe5e
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d3000000d4000000d5000000d6000000d7000000d8000000d9000000da000000db000000dc000000dd000000de000000df000000e0000000e1000000e2000000e3000000e4000000e5000000e6000000e7000000e8000000e9000000ea000000eb000000ec000000ed000000ee000000ef000000f0000000f1000000f2000000f3000000f4000000f5000000f6000000f7000000f8000000f9000000fa000000fb000000fc000000fd000000fe000000ff000000000100000101000002010000030100000401000005010000060100000701000008010000090100000a0100000b0100000c0100000d0100000e0100000f0100001001000011010000120100001301000014010000
+  assetHash:
+    serializedVersion: 2
+    Hash: 2bdc457e031855a93ab83055245404bb
+  longitude: 2.333
+  latitude: 48.867
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 15.6951475, y: 6.5479097, z: 27.633312}
+      lookAt: {x: 15.125103, y: 5.4950914, z: 24.439434}
+      up: {x: -0.054233294, y: 0.95117146, z: -0.30386114}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: air op chair
+    100002: air op chair 1
+    100004: arthur-SUFDM-012-007
+    100006: arthur-SUFDM-012-007 1
+    100008: bacia c caixa aloha(2).dwg
+    100010: Bacia com caixa Aloha CELITE
+    100012: bathroom
+    100014: closet
+    100016: closet door
+    100018: closet door 1
+    100020: closet door 2
+    100022: closet#1
+    100024: Component#43
+    100026: Component#43 1
+    100028: Component#49
+    100030: Component#50
+    100032: Component#9
+    100034: Component#9 1
+    100036: Cylinder01#2
+    100038: Cylinder01#9
+    100040: floor
+    100042: Group 10
+    100044: Group 11
+    100046: Group 128
+    100048: Group 15
+    100050: Group 152
+    100052: Group 157
+    100054: Group 158
+    100056: Group 159
+    100058: Group 163
+    100060: Group 171
+    100062: Group 178
+    100064: Group 180
+    100066: Group 182
+    100068: Group 184
+    100070: Group 189
+    100072: Group 191
+    100074: Group 194
+    100076: Group 199
+    100078: Group 2
+    100080: Group 200
+    100082: Group 202
+    100084: Group 23
+    100086: Group 30
+    100088: Group 32
+    100090: Group 34
+    100092: Group 36
+    100094: Group 4
+    100096: Group 41
+    100098: Group 43
+    100100: Group 46
+    100102: Group 6
+    100104: Group 9
+    100106: Group#207
+    100108: Group#207 1
+    100110: Group#207 2
+    100112: Group#207 3
+    100114: Group#207 4
+    100116: Group#207 5
+    100118: Group#207 6
+    100120: Group#207 7
+    100122: Group#208
+    100124: Group#208 1
+    100126: Group#208 2
+    100128: Group#208 3
+    100130: Group#209
+    100132: Group#209 1
+    100134: Group#209 2
+    100136: Group#209 3
+    100138: Group#39
+    100140: Group#39 1
+    100142: Group#39 2
+    100144: Group#39 3
+    100146: Group#41
+    100148: Group#41 1
+    100150: Group#60
+    100152: Group#60 1
+    100154: hcb00148.dwg
+    100156: hcb00607.dwg
+    100158: hose
+    100160: IKEA Expedit desk
+    100162: mirror
+    100164: Obj_000001
+    100166: Obj_000001 1
+    100168: Obj_000002
+    100170: Obj_000002 1
+    100172: Obj_000003
+    100174: Obj_000003 1
+    100176: Obj_000004
+    100178: Obj_000004 1
+    100180: Obj_000005
+    100182: Obj_000005 1
+    100184: Obj_000006
+    100186: Obj_000006 1
+    100188: Obj_000007
+    100190: Obj_000007 1
+    100192: Obj_000008
+    100194: Obj_000008 1
+    100196: Obj_000009
+    100198: Obj_000009 1
+    100200: Obj_000010
+    100202: Obj_000010 1
+    100204: Obj_000011
+    100206: Obj_000011 1
+    100208: Obj_000012
+    100210: Obj_000012 1
+    100212: Obj_000013
+    100214: Obj_000013 1
+    100216: Obj_000014
+    100218: Obj_000014 1
+    100220: Obj_000015
+    100222: Obj_000015 1
+    100224: Obj_000016
+    100226: Obj_000016 1
+    100228: Obj_000017
+    100230: Obj_000017 1
+    100232: Obj_000018
+    100234: Obj_000018 1
+    100236: Obj_000019
+    100238: Obj_000019 1
+    100240: Obj_000020
+    100242: Obj_000020 1
+    100244: Obj_000021
+    100246: Obj_000021 1
+    100248: Obj_000022
+    100250: Obj_000022 1
+    100252: Obj_000023
+    100254: Obj_000023 1
+    100256: Obj_000024
+    100258: Obj_000024 1
+    100260: Obj_000025
+    100262: Obj_000025 1
+    100264: Obj_000026
+    100266: Obj_000026 1
+    100268: Obj_000027
+    100270: Obj_000027 1
+    100272: Obj_000028
+    100274: Obj_000028 1
+    100276: Obj_000029
+    100278: Obj_000029 1
+    100280: Obj_000030
+    100282: Obj_000030 1
+    100284: Obj_000031
+    100286: Obj_000031 1
+    100288: Obj_000032
+    100290: Obj_000032 1
+    100292: Obj_000033
+    100294: Obj_000033 1
+    100296: Shower Raindance Connect
+    100298: single+bed
+    100300: single+bed 1
+    100302: skpE
+    100304: washtable
+    100306: window2
+    100308: //RootNode
+    400000: air op chair
+    400002: air op chair 1
+    400004: arthur-SUFDM-012-007
+    400006: arthur-SUFDM-012-007 1
+    400008: bacia c caixa aloha(2).dwg
+    400010: Bacia com caixa Aloha CELITE
+    400012: bathroom
+    400014: closet
+    400016: closet door
+    400018: closet door 1
+    400020: closet door 2
+    400022: closet#1
+    400024: Component#43
+    400026: Component#43 1
+    400028: Component#49
+    400030: Component#50
+    400032: Component#9
+    400034: Component#9 1
+    400036: Cylinder01#2
+    400038: Cylinder01#9
+    400040: floor
+    400042: Group 10
+    400044: Group 11
+    400046: Group 128
+    400048: Group 15
+    400050: Group 152
+    400052: Group 157
+    400054: Group 158
+    400056: Group 159
+    400058: Group 163
+    400060: Group 171
+    400062: Group 178
+    400064: Group 180
+    400066: Group 182
+    400068: Group 184
+    400070: Group 189
+    400072: Group 191
+    400074: Group 194
+    400076: Group 199
+    400078: Group 2
+    400080: Group 200
+    400082: Group 202
+    400084: Group 23
+    400086: Group 30
+    400088: Group 32
+    400090: Group 34
+    400092: Group 36
+    400094: Group 4
+    400096: Group 41
+    400098: Group 43
+    400100: Group 46
+    400102: Group 6
+    400104: Group 9
+    400106: Group#207
+    400108: Group#207 1
+    400110: Group#207 2
+    400112: Group#207 3
+    400114: Group#207 4
+    400116: Group#207 5
+    400118: Group#207 6
+    400120: Group#207 7
+    400122: Group#208
+    400124: Group#208 1
+    400126: Group#208 2
+    400128: Group#208 3
+    400130: Group#209
+    400132: Group#209 1
+    400134: Group#209 2
+    400136: Group#209 3
+    400138: Group#39
+    400140: Group#39 1
+    400142: Group#39 2
+    400144: Group#39 3
+    400146: Group#41
+    400148: Group#41 1
+    400150: Group#60
+    400152: Group#60 1
+    400154: hcb00148.dwg
+    400156: hcb00607.dwg
+    400158: hose
+    400160: IKEA Expedit desk
+    400162: mirror
+    400164: Obj_000001
+    400166: Obj_000001 1
+    400168: Obj_000002
+    400170: Obj_000002 1
+    400172: Obj_000003
+    400174: Obj_000003 1
+    400176: Obj_000004
+    400178: Obj_000004 1
+    400180: Obj_000005
+    400182: Obj_000005 1
+    400184: Obj_000006
+    400186: Obj_000006 1
+    400188: Obj_000007
+    400190: Obj_000007 1
+    400192: Obj_000008
+    400194: Obj_000008 1
+    400196: Obj_000009
+    400198: Obj_000009 1
+    400200: Obj_000010
+    400202: Obj_000010 1
+    400204: Obj_000011
+    400206: Obj_000011 1
+    400208: Obj_000012
+    400210: Obj_000012 1
+    400212: Obj_000013
+    400214: Obj_000013 1
+    400216: Obj_000014
+    400218: Obj_000014 1
+    400220: Obj_000015
+    400222: Obj_000015 1
+    400224: Obj_000016
+    400226: Obj_000016 1
+    400228: Obj_000017
+    400230: Obj_000017 1
+    400232: Obj_000018
+    400234: Obj_000018 1
+    400236: Obj_000019
+    400238: Obj_000019 1
+    400240: Obj_000020
+    400242: Obj_000020 1
+    400244: Obj_000021
+    400246: Obj_000021 1
+    400248: Obj_000022
+    400250: Obj_000022 1
+    400252: Obj_000023
+    400254: Obj_000023 1
+    400256: Obj_000024
+    400258: Obj_000024 1
+    400260: Obj_000025
+    400262: Obj_000025 1
+    400264: Obj_000026
+    400266: Obj_000026 1
+    400268: Obj_000027
+    400270: Obj_000027 1
+    400272: Obj_000028
+    400274: Obj_000028 1
+    400276: Obj_000029
+    400278: Obj_000029 1
+    400280: Obj_000030
+    400282: Obj_000030 1
+    400284: Obj_000031
+    400286: Obj_000031 1
+    400288: Obj_000032
+    400290: Obj_000032 1
+    400292: Obj_000033
+    400294: Obj_000033 1
+    400296: Shower Raindance Connect
+    400298: single+bed
+    400300: single+bed 1
+    400302: skpE
+    400304: washtable
+    400306: window2
+    400308: //RootNode
+    2100000: _defaultMat
+    2100002: '[Translucent Glass Blue]'
+    2100004: '[Wood Floor Light]1'
+    2100006: _3
+    2100008: '[Color_000]1'
+    2100010: _auto_
+    2100012: Material171
+    2100014: _19
+    2100016: '[Color_A01]'
+    2100018: _DimGray_1
+    2100020: _MediumVioletRed_1
+    2100022: HCON110128_frame1
+    2100024: 222e2878f31d1c90ec3359052d8b1
+    2100026: '[Color_000]'
+    2100028: '[Metal_Corrogated_Shiny]'
+    2100030: '[Color_J11]'
+    2100032: mat1
+    2100034: edit grey blak
+    2100036: '[Metal_Corrogated_Shiny]5'
+    2100038: Black
+    2100040: '[Color_008]'
+    2100042: _Charcoal_
+    2100044: white edit
+    2100046: '[Mirror 01]'
+    2100048: _32
+    2100050: metal1
+    2100052: _34
+    2100054: Color_004
+    2100056: Color_001
+    2100058: Wood_193
+    2100060: '[Metal_Corrogated_Shiny]6'
+    2100062: '[Color D02]'
+    2100064: '[Color I07]'
+    2300000: bacia c caixa aloha(2).dwg
+    2300002: bathroom
+    2300004: closet
+    2300006: closet door
+    2300008: closet door 1
+    2300010: closet door 2
+    2300012: Component#43
+    2300014: Component#43 1
+    2300016: Component#49
+    2300018: Component#50
+    2300020: Component#9
+    2300022: Component#9 1
+    2300024: Cylinder01#2
+    2300026: Cylinder01#9
+    2300028: floor
+    2300030: Group 11
+    2300032: Group 15
+    2300034: Group 152
+    2300036: Group 159
+    2300038: Group 163
+    2300040: Group 171
+    2300042: Group 180
+    2300044: Group 182
+    2300046: Group 189
+    2300048: Group 191
+    2300050: Group 194
+    2300052: Group 2
+    2300054: Group 200
+    2300056: Group 202
+    2300058: Group 23
+    2300060: Group 32
+    2300062: Group 34
+    2300064: Group 4
+    2300066: Group 41
+    2300068: Group 43
+    2300070: Group 46
+    2300072: Group 6
+    2300074: Group#207
+    2300076: Group#207 1
+    2300078: Group#207 2
+    2300080: Group#207 3
+    2300082: Group#207 4
+    2300084: Group#207 5
+    2300086: Group#207 6
+    2300088: Group#207 7
+    2300090: Group#39
+    2300092: Group#39 1
+    2300094: Group#39 2
+    2300096: Group#39 3
+    2300098: hcb00148.dwg
+    2300100: hcb00607.dwg
+    2300102: hose
+    2300104: mirror
+    2300106: Obj_000001
+    2300108: Obj_000001 1
+    2300110: Obj_000002
+    2300112: Obj_000002 1
+    2300114: Obj_000003
+    2300116: Obj_000003 1
+    2300118: Obj_000004
+    2300120: Obj_000004 1
+    2300122: Obj_000005
+    2300124: Obj_000005 1
+    2300126: Obj_000006
+    2300128: Obj_000006 1
+    2300130: Obj_000007
+    2300132: Obj_000007 1
+    2300134: Obj_000008
+    2300136: Obj_000008 1
+    2300138: Obj_000009
+    2300140: Obj_000009 1
+    2300142: Obj_000010
+    2300144: Obj_000010 1
+    2300146: Obj_000011
+    2300148: Obj_000011 1
+    2300150: Obj_000012
+    2300152: Obj_000012 1
+    2300154: Obj_000013
+    2300156: Obj_000013 1
+    2300158: Obj_000014
+    2300160: Obj_000014 1
+    2300162: Obj_000015
+    2300164: Obj_000015 1
+    2300166: Obj_000016
+    2300168: Obj_000016 1
+    2300170: Obj_000017
+    2300172: Obj_000017 1
+    2300174: Obj_000018
+    2300176: Obj_000018 1
+    2300178: Obj_000019
+    2300180: Obj_000019 1
+    2300182: Obj_000020
+    2300184: Obj_000020 1
+    2300186: Obj_000021
+    2300188: Obj_000021 1
+    2300190: Obj_000022
+    2300192: Obj_000022 1
+    2300194: Obj_000023
+    2300196: Obj_000023 1
+    2300198: Obj_000024
+    2300200: Obj_000024 1
+    2300202: Obj_000025
+    2300204: Obj_000025 1
+    2300206: Obj_000026
+    2300208: Obj_000026 1
+    2300210: Obj_000027
+    2300212: Obj_000027 1
+    2300214: Obj_000028
+    2300216: Obj_000028 1
+    2300218: Obj_000029
+    2300220: Obj_000029 1
+    2300222: Obj_000030
+    2300224: Obj_000030 1
+    2300226: Obj_000031
+    2300228: Obj_000031 1
+    2300230: Obj_000032
+    2300232: Obj_000032 1
+    2300234: Obj_000033
+    2300236: Obj_000033 1
+    2300238: washtable
+    2300240: window2
+    2300242: //RootNode
+    3300000: bacia c caixa aloha(2).dwg
+    3300002: bathroom
+    3300004: closet
+    3300006: closet door
+    3300008: closet door 1
+    3300010: closet door 2
+    3300012: Component#43
+    3300014: Component#43 1
+    3300016: Component#49
+    3300018: Component#50
+    3300020: Component#9
+    3300022: Component#9 1
+    3300024: Cylinder01#2
+    3300026: Cylinder01#9
+    3300028: floor
+    3300030: Group 11
+    3300032: Group 15
+    3300034: Group 152
+    3300036: Group 159
+    3300038: Group 163
+    3300040: Group 171
+    3300042: Group 180
+    3300044: Group 182
+    3300046: Group 189
+    3300048: Group 191
+    3300050: Group 194
+    3300052: Group 2
+    3300054: Group 200
+    3300056: Group 202
+    3300058: Group 23
+    3300060: Group 32
+    3300062: Group 34
+    3300064: Group 4
+    3300066: Group 41
+    3300068: Group 43
+    3300070: Group 46
+    3300072: Group 6
+    3300074: Group#207
+    3300076: Group#207 1
+    3300078: Group#207 2
+    3300080: Group#207 3
+    3300082: Group#207 4
+    3300084: Group#207 5
+    3300086: Group#207 6
+    3300088: Group#207 7
+    3300090: Group#39
+    3300092: Group#39 1
+    3300094: Group#39 2
+    3300096: Group#39 3
+    3300098: hcb00148.dwg
+    3300100: hcb00607.dwg
+    3300102: hose
+    3300104: mirror
+    3300106: Obj_000001
+    3300108: Obj_000001 1
+    3300110: Obj_000002
+    3300112: Obj_000002 1
+    3300114: Obj_000003
+    3300116: Obj_000003 1
+    3300118: Obj_000004
+    3300120: Obj_000004 1
+    3300122: Obj_000005
+    3300124: Obj_000005 1
+    3300126: Obj_000006
+    3300128: Obj_000006 1
+    3300130: Obj_000007
+    3300132: Obj_000007 1
+    3300134: Obj_000008
+    3300136: Obj_000008 1
+    3300138: Obj_000009
+    3300140: Obj_000009 1
+    3300142: Obj_000010
+    3300144: Obj_000010 1
+    3300146: Obj_000011
+    3300148: Obj_000011 1
+    3300150: Obj_000012
+    3300152: Obj_000012 1
+    3300154: Obj_000013
+    3300156: Obj_000013 1
+    3300158: Obj_000014
+    3300160: Obj_000014 1
+    3300162: Obj_000015
+    3300164: Obj_000015 1
+    3300166: Obj_000016
+    3300168: Obj_000016 1
+    3300170: Obj_000017
+    3300172: Obj_000017 1
+    3300174: Obj_000018
+    3300176: Obj_000018 1
+    3300178: Obj_000019
+    3300180: Obj_000019 1
+    3300182: Obj_000020
+    3300184: Obj_000020 1
+    3300186: Obj_000021
+    3300188: Obj_000021 1
+    3300190: Obj_000022
+    3300192: Obj_000022 1
+    3300194: Obj_000023
+    3300196: Obj_000023 1
+    3300198: Obj_000024
+    3300200: Obj_000024 1
+    3300202: Obj_000025
+    3300204: Obj_000025 1
+    3300206: Obj_000026
+    3300208: Obj_000026 1
+    3300210: Obj_000027
+    3300212: Obj_000027 1
+    3300214: Obj_000028
+    3300216: Obj_000028 1
+    3300218: Obj_000029
+    3300220: Obj_000029 1
+    3300222: Obj_000030
+    3300224: Obj_000030 1
+    3300226: Obj_000031
+    3300228: Obj_000031 1
+    3300230: Obj_000032
+    3300232: Obj_000032 1
+    3300234: Obj_000033
+    3300236: Obj_000033 1
+    3300238: washtable
+    3300240: window2
+    3300242: //RootNode
+    4300000: "Mesh \uC2E0\uAD00 2\uC778\uC2E4 1"
+    4300002: Mesh Group 2
+    4300004: Mesh Group 4
+    4300006: Mesh Group 6
+    4300008: Mesh Group 11
+    4300010: Mesh Group 15
+    4300012: Mesh Group#207
+    4300014: Mesh Group 32
+    4300016: Mesh Group 34
+    4300018: Mesh Group#39
+    4300020: Mesh Group 41
+    4300022: Mesh Group 43
+    4300024: Mesh Group 46
+    4300026: Mesh Component#9
+    4300028: Mesh closet door
+    4300030: Mesh closet
+    4300032: Mesh Obj_000001
+    4300034: Mesh Obj_000002
+    4300036: Mesh Obj_000003
+    4300038: Mesh Obj_000004
+    4300040: Mesh Obj_000005
+    4300042: Mesh Obj_000006
+    4300044: Mesh Obj_000007
+    4300046: Mesh Obj_000008
+    4300048: Mesh Obj_000009
+    4300050: Mesh Obj_000010
+    4300052: Mesh Obj_000011
+    4300054: Mesh Obj_000012
+    4300056: Mesh Obj_000013
+    4300058: Mesh Obj_000014
+    4300060: Mesh Obj_000015
+    4300062: Mesh Obj_000016
+    4300064: Mesh Obj_000017
+    4300066: Mesh Obj_000018
+    4300068: Mesh Obj_000019
+    4300070: Mesh Obj_000020
+    4300072: Mesh Obj_000021
+    4300074: Mesh Obj_000022
+    4300076: Mesh Obj_000023
+    4300078: Mesh Obj_000024
+    4300080: Mesh Obj_000025
+    4300082: Mesh Obj_000026
+    4300084: Mesh Obj_000027
+    4300086: Mesh Obj_000028
+    4300088: Mesh Obj_000029
+    4300090: Mesh Obj_000030
+    4300092: Mesh Obj_000031
+    4300094: Mesh Obj_000032
+    4300096: Mesh Obj_000033
+    4300098: Mesh bathroom
+    4300100: Mesh mirror
+    4300102: Mesh bacia c caixa aloha(2).dwg
+    4300104: Mesh hose
+    4300106: Mesh hcb00148.dwg
+    4300108: Mesh hcb00607.dwg
+    4300110: Mesh washtable
+    4300112: Mesh Component#49
+    4300114: Mesh Cylinder01#2
+    4300116: Mesh Cylinder01#9
+    4300118: Mesh Component#50
+    4300120: Mesh Group 152
+    4300122: Mesh floor
+    4300124: Mesh Group 200
+    4300126: Mesh Group 202
+    4300128: Mesh window2
+    4300130: Mesh Component#43
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

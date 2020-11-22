@@ -1,0 +1,1430 @@
+fileFormatVersion: 2
+guid: 3eec96d2eda966849ae4d6c971c7f44d
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d3000000d4000000d5000000d6000000d7000000d8000000d9000000da000000db000000dc000000dd000000de000000df000000e0000000e1000000e2000000e3000000e4000000e5000000e6000000e7000000e8000000e9000000ea000000eb000000ec000000ed000000ee000000ef000000f0000000f1000000f2000000f3000000f4000000f5000000f6000000f7000000f8000000f9000000fa000000fb000000fc000000fd000000fe000000ff000000000100000101000002010000030100000401000005010000060100000701000008010000090100000a0100000b0100000c0100000d0100000e0100000f010000100100001101000012010000130100001401000015010000160100001701000018010000190100001a0100001b0100001c0100001d0100001e0100001f010000200100002101000022010000230100002401000025010000260100002701000028010000290100002a0100002b0100002c0100002d0100002e0100002f010000300100003101000032010000330100003401000035010000360100003701000038010000390100003a0100003b0100003c0100003d0100003e0100003f010000400100004101000042010000430100004401000045010000460100004701000048010000490100004a0100004b0100004c0100004d0100004e0100004f010000500100005101000052010000530100005401000055010000560100005701000058010000590100005a0100005b0100005c0100005d0100005e0100005f010000600100006101000062010000630100006401000065010000660100006701000068010000690100006a0100006b0100006c0100006d0100006e0100006f010000700100007101000072010000730100007401000075010000760100007701000078010000790100007a0100007b0100007c0100007d0100007e0100007f010000800100008101000082010000830100008401000085010000860100008701000088010000890100008a0100008b0100008c0100008d0100008e0100008f010000900100009101000092010000930100009401000095010000960100009701000098010000990100009a0100009b0100009c0100009d0100009e0100009f010000a0010000a1010000a2010000a3010000a4010000a5010000a6010000a7010000a8010000a9010000aa010000ab010000ac010000ad010000ae010000af010000b0010000b1010000b2010000b3010000b4010000b5010000b6010000b7010000b8010000b9010000ba010000bb010000bc010000bd010000be010000bf010000c0010000c1010000c2010000c3010000c4010000c5010000c6010000c7010000c8010000c9010000ca010000cb010000cc010000cd010000ce010000cf010000d0010000d1010000d2010000d3010000d4010000d5010000d6010000d7010000d8010000d9010000da010000db010000dc010000dd010000de010000df010000e0010000e1010000e2010000e3010000e4010000e5010000e6010000e7010000e8010000e9010000ea010000eb010000ec010000ed010000ee010000ef010000f0010000f1010000f2010000f3010000f4010000f5010000f6010000f7010000f8010000f9010000fa010000fb010000fc010000fd010000fe010000ff010000000200000102000002020000030200000402000005020000060200000702000008020000090200000a0200000b0200000c0200000d0200000e0200000f020000100200001102000012020000130200001402000015020000160200001702000018020000190200001a0200001b0200001c0200001d0200001e0200001f020000200200002102000022020000230200002402000025020000260200002702000028020000290200002a0200002b0200002c0200002d0200002e0200002f020000300200003102000032020000330200003402000035020000
+  assetHash:
+    serializedVersion: 2
+    Hash: 2dbc2c3f5e260696da3e63ded36d23f7
+  longitude: 127
+  latitude: 37.5
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 9.924623, y: 1.1617478, z: 2.1124992}
+      lookAt: {x: 0.019934002, y: -1.7213908, z: 3.3459961}
+      up: {x: -0.27538398, y: 0.9607224, z: 0.034295402}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: "1\uCE35"
+    100002: "1\uCE35 1"
+    100004: "1\uCE35 \uB9E4\uD2B8\uB9AD\uC2A4"
+    100006: "1\uCE35 \uB9E4\uD2B8\uB9AD\uC2A4 1"
+    100008: "2\uCE35"
+    100010: "2\uCE35 1"
+    100012: "2\uCE35 \uB9E4\uD2B8\uB9AD\uC2A4"
+    100014: "2\uCE35 \uB9E4\uD2B8\uB9AD\uC2A4 1"
+    100016: "2\uCE35 \uCE78\uB9C9\uC774"
+    100018: "2\uCE35 \uCE78\uB9C9\uC774 1"
+    100020: Box001
+    100022: Box001 1
+    100024: Box001 2
+    100026: Box001 3
+    100028: Box001 4
+    100030: Box001 5
+    100032: Box001 6
+    100034: Box001 7
+    100036: Box002
+    100038: Box002 1
+    100040: Box002 2
+    100042: Box002 3
+    100044: Box002 4
+    100046: Box002 5
+    100048: Box002 6
+    100050: Box002 7
+    100052: Box003
+    100054: Box003 1
+    100056: Box003 2
+    100058: Box003 3
+    100060: Box003 4
+    100062: Box003 5
+    100064: Box003 6
+    100066: Box003 7
+    100068: Box004
+    100070: Box004 1
+    100072: Box004 2
+    100074: Box004 3
+    100076: Box005
+    100078: Box005 1
+    100080: Box005 2
+    100082: Box005 3
+    100084: Box006
+    100086: Box006 1
+    100088: Box006 2
+    100090: Box006 3
+    100092: Box007
+    100094: Box007 1
+    100096: Box007 2
+    100098: Box007 3
+    100100: Closet1
+    100102: Closet1 1
+    100104: Component
+    100106: Component 1
+    100108: Component 2
+    100110: Component 3
+    100112: Cylin10
+    100114: Cylin10 1
+    100116: Cylin10 2
+    100118: Cylin10 3
+    100120: Cylin5
+    100122: Cylin5 1
+    100124: Cylin5 2
+    100126: Cylin5 3
+    100128: Cylin7
+    100130: Cylin7 1
+    100132: Cylin7 2
+    100134: Cylin7 3
+    100136: Cylin9
+    100138: Cylin9 1
+    100140: Cylin9 2
+    100142: Cylin9 3
+    100144: Cylin9 4
+    100146: Cylin9 5
+    100148: Cylin9 6
+    100150: Cylin9 7
+    100152: Group 10
+    100154: Group 157
+    100156: Group 159
+    100158: Group 176
+    100160: Group 183
+    100162: Group 190
+    100164: Group 197
+    100166: Group 204
+    100168: Group 24
+    100170: Group 26
+    100172: Group 261
+    100174: Group 263
+    100176: Group 28
+    100178: Group 280
+    100180: Group 287
+    100182: Group 294
+    100184: Group 30
+    100186: Group 301
+    100188: Group 308
+    100190: Group 365
+    100192: Group 367
+    100194: Group 384
+    100196: Group 391
+    100198: Group 398
+    100200: Group 405
+    100202: Group 412
+    100204: Group 469
+    100206: Group 471
+    100208: Group 488
+    100210: Group 495
+    100212: Group 502
+    100214: Group 509
+    100216: Group 516
+    100218: Group 52
+    100220: Group 54
+    100222: Group 56
+    100224: Group 58
+    100226: Group#1
+    100228: Group#10
+    100230: Group#11
+    100232: Group#12
+    100234: Group#13
+    100236: Group#14
+    100238: Group#15
+    100240: Group#16
+    100242: Group#17
+    100244: Group#18
+    100246: Group#19
+    100248: Group#2
+    100250: Group#20
+    100252: Group#21
+    100254: Group#22
+    100256: Group#3
+    100258: Group#4
+    100260: Group#45
+    100262: Group#45 1
+    100264: Group#45 2
+    100266: Group#45 3
+    100268: Group#45 4
+    100270: Group#45 5
+    100272: Group#45 6
+    100274: Group#45 7
+    100276: Group#46
+    100278: Group#46 1
+    100280: Group#46 2
+    100282: Group#46 3
+    100284: Group#46 4
+    100286: Group#46 5
+    100288: Group#46 6
+    100290: Group#46 7
+    100292: Group#5
+    100294: Group#6
+    100296: Group#64
+    100298: Group#64 1
+    100300: Group#64 10
+    100302: Group#64 11
+    100304: Group#64 12
+    100306: Group#64 13
+    100308: Group#64 14
+    100310: Group#64 15
+    100312: Group#64 16
+    100314: Group#64 17
+    100316: Group#64 18
+    100318: Group#64 19
+    100320: Group#64 2
+    100322: Group#64 20
+    100324: Group#64 21
+    100326: Group#64 22
+    100328: Group#64 23
+    100330: Group#64 24
+    100332: Group#64 25
+    100334: Group#64 26
+    100336: Group#64 27
+    100338: Group#64 28
+    100340: Group#64 29
+    100342: Group#64 3
+    100344: Group#64 30
+    100346: Group#64 31
+    100348: Group#64 32
+    100350: Group#64 33
+    100352: Group#64 34
+    100354: Group#64 35
+    100356: Group#64 36
+    100358: Group#64 37
+    100360: Group#64 38
+    100362: Group#64 39
+    100364: Group#64 4
+    100366: Group#64 5
+    100368: Group#64 6
+    100370: Group#64 7
+    100372: Group#64 8
+    100374: Group#64 9
+    100376: Group#69
+    100378: Group#69 1
+    100380: Group#69 10
+    100382: Group#69 11
+    100384: Group#69 12
+    100386: Group#69 13
+    100388: Group#69 14
+    100390: Group#69 15
+    100392: Group#69 16
+    100394: Group#69 17
+    100396: Group#69 18
+    100398: Group#69 19
+    100400: Group#69 2
+    100402: Group#69 3
+    100404: Group#69 4
+    100406: Group#69 5
+    100408: Group#69 6
+    100410: Group#69 7
+    100412: Group#69 8
+    100414: Group#69 9
+    100416: Group#7
+    100418: Group#8
+    100420: Group#9
+    100422: Group023
+    100424: Group023 1
+    100426: Group023 2
+    100428: Group023 3
+    100430: Group024
+    100432: Group024 1
+    100434: Group024 2
+    100436: Group024 3
+    100438: Group1
+    100440: Group1 1
+    100442: Group1 2
+    100444: Group1 3
+    100446: Group10
+    100448: Group10 1
+    100450: Group10 2
+    100452: Group10 3
+    100454: Group16
+    100456: Group16 1
+    100458: Group16 2
+    100460: Group16 3
+    100462: Group19
+    100464: Group19 1
+    100466: Group19 2
+    100468: Group19 3
+    100470: Group2
+    100472: Group2 1
+    100474: Group2 2
+    100476: Group2 3
+    100478: Group9
+    100480: Group9 1
+    100482: Group9 2
+    100484: Group9 3
+    100486: light
+    100488: obesalnik
+    100490: obesalnik 1
+    100492: obesalnik 2
+    100494: obesalnik 3
+    100496: obesalnik 4
+    100498: obesalnik 5
+    100500: obesalnik 6
+    100502: obesalnik 7
+    100504: Object001
+    100506: Object001 1
+    100508: Object001 2
+    100510: Object001 3
+    100512: Object001 4
+    100514: Object001 5
+    100516: Object001 6
+    100518: Object001 7
+    100520: Object003
+    100522: Object003 1
+    100524: Object003 2
+    100526: Object003 3
+    100528: Object003 4
+    100530: Object003 5
+    100532: Object003 6
+    100534: Object003 7
+    100536: Object004
+    100538: Object004 1
+    100540: Object004 2
+    100542: Object004 3
+    100544: Object005
+    100546: Object005 1
+    100548: Object005 2
+    100550: Object005 3
+    100552: Rocaj2
+    100554: Rocaj2 1
+    100556: Rocaj2 2
+    100558: Rocaj2 3
+    100560: Rocaj2 4
+    100562: Rocaj2 5
+    100564: Rocaj2 6
+    100566: Rocaj2 7
+    100568: Rocaj2 8
+    100570: Rocaj2 9
+    100572: Split Brastemp Active 18000
+    100574: //RootNode
+    100576: "\uAD6C\uC131 \uC694\uC18C#5"
+    100578: "\uAE30\uB465"
+    100580: "\uAE30\uB465 1"
+    100582: "\uAE30\uB465 2"
+    100584: "\uAE30\uB465 3"
+    100586: "\uAE30\uB465 4"
+    100588: "\uAE30\uB465 5"
+    100590: "\uAE30\uB465 6"
+    100592: "\uAE30\uB465 7"
+    100594: "\uC0AC\uB2E4\uB9AC"
+    100596: "\uC0AC\uB2E4\uB9AC 1"
+    100598: Group 161
+    100600: Group 178
+    100602: Group 185
+    100604: Group 192
+    100606: Group 199
+    100608: Group 206
+    100610: Group 265
+    100612: Group 282
+    100614: Group 289
+    100616: Group 296
+    100618: Group 303
+    100620: Group 310
+    100622: Group 369
+    100624: Group 386
+    100626: Group 393
+    100628: Group 400
+    100630: Group 407
+    100632: Group 414
+    100634: Group 473
+    100636: Group 490
+    100638: Group 497
+    100640: Group 504
+    100642: Group 511
+    100644: Group 518
+    100646: Group 60
+    400000: "1\uCE35"
+    400002: "1\uCE35 1"
+    400004: "1\uCE35 \uB9E4\uD2B8\uB9AD\uC2A4"
+    400006: "1\uCE35 \uB9E4\uD2B8\uB9AD\uC2A4 1"
+    400008: "2\uCE35"
+    400010: "2\uCE35 1"
+    400012: "2\uCE35 \uB9E4\uD2B8\uB9AD\uC2A4"
+    400014: "2\uCE35 \uB9E4\uD2B8\uB9AD\uC2A4 1"
+    400016: "2\uCE35 \uCE78\uB9C9\uC774"
+    400018: "2\uCE35 \uCE78\uB9C9\uC774 1"
+    400020: Box001
+    400022: Box001 1
+    400024: Box001 2
+    400026: Box001 3
+    400028: Box001 4
+    400030: Box001 5
+    400032: Box001 6
+    400034: Box001 7
+    400036: Box002
+    400038: Box002 1
+    400040: Box002 2
+    400042: Box002 3
+    400044: Box002 4
+    400046: Box002 5
+    400048: Box002 6
+    400050: Box002 7
+    400052: Box003
+    400054: Box003 1
+    400056: Box003 2
+    400058: Box003 3
+    400060: Box003 4
+    400062: Box003 5
+    400064: Box003 6
+    400066: Box003 7
+    400068: Box004
+    400070: Box004 1
+    400072: Box004 2
+    400074: Box004 3
+    400076: Box005
+    400078: Box005 1
+    400080: Box005 2
+    400082: Box005 3
+    400084: Box006
+    400086: Box006 1
+    400088: Box006 2
+    400090: Box006 3
+    400092: Box007
+    400094: Box007 1
+    400096: Box007 2
+    400098: Box007 3
+    400100: Closet1
+    400102: Closet1 1
+    400104: Component
+    400106: Component 1
+    400108: Component 2
+    400110: Component 3
+    400112: Cylin10
+    400114: Cylin10 1
+    400116: Cylin10 2
+    400118: Cylin10 3
+    400120: Cylin5
+    400122: Cylin5 1
+    400124: Cylin5 2
+    400126: Cylin5 3
+    400128: Cylin7
+    400130: Cylin7 1
+    400132: Cylin7 2
+    400134: Cylin7 3
+    400136: Cylin9
+    400138: Cylin9 1
+    400140: Cylin9 2
+    400142: Cylin9 3
+    400144: Cylin9 4
+    400146: Cylin9 5
+    400148: Cylin9 6
+    400150: Cylin9 7
+    400152: Group 10
+    400154: Group 157
+    400156: Group 159
+    400158: Group 176
+    400160: Group 183
+    400162: Group 190
+    400164: Group 197
+    400166: Group 204
+    400168: Group 24
+    400170: Group 26
+    400172: Group 261
+    400174: Group 263
+    400176: Group 28
+    400178: Group 280
+    400180: Group 287
+    400182: Group 294
+    400184: Group 30
+    400186: Group 301
+    400188: Group 308
+    400190: Group 365
+    400192: Group 367
+    400194: Group 384
+    400196: Group 391
+    400198: Group 398
+    400200: Group 405
+    400202: Group 412
+    400204: Group 469
+    400206: Group 471
+    400208: Group 488
+    400210: Group 495
+    400212: Group 502
+    400214: Group 509
+    400216: Group 516
+    400218: Group 52
+    400220: Group 54
+    400222: Group 56
+    400224: Group 58
+    400226: Group#1
+    400228: Group#10
+    400230: Group#11
+    400232: Group#12
+    400234: Group#13
+    400236: Group#14
+    400238: Group#15
+    400240: Group#16
+    400242: Group#17
+    400244: Group#18
+    400246: Group#19
+    400248: Group#2
+    400250: Group#20
+    400252: Group#21
+    400254: Group#22
+    400256: Group#3
+    400258: Group#4
+    400260: Group#45
+    400262: Group#45 1
+    400264: Group#45 2
+    400266: Group#45 3
+    400268: Group#45 4
+    400270: Group#45 5
+    400272: Group#45 6
+    400274: Group#45 7
+    400276: Group#46
+    400278: Group#46 1
+    400280: Group#46 2
+    400282: Group#46 3
+    400284: Group#46 4
+    400286: Group#46 5
+    400288: Group#46 6
+    400290: Group#46 7
+    400292: Group#5
+    400294: Group#6
+    400296: Group#64
+    400298: Group#64 1
+    400300: Group#64 10
+    400302: Group#64 11
+    400304: Group#64 12
+    400306: Group#64 13
+    400308: Group#64 14
+    400310: Group#64 15
+    400312: Group#64 16
+    400314: Group#64 17
+    400316: Group#64 18
+    400318: Group#64 19
+    400320: Group#64 2
+    400322: Group#64 20
+    400324: Group#64 21
+    400326: Group#64 22
+    400328: Group#64 23
+    400330: Group#64 24
+    400332: Group#64 25
+    400334: Group#64 26
+    400336: Group#64 27
+    400338: Group#64 28
+    400340: Group#64 29
+    400342: Group#64 3
+    400344: Group#64 30
+    400346: Group#64 31
+    400348: Group#64 32
+    400350: Group#64 33
+    400352: Group#64 34
+    400354: Group#64 35
+    400356: Group#64 36
+    400358: Group#64 37
+    400360: Group#64 38
+    400362: Group#64 39
+    400364: Group#64 4
+    400366: Group#64 5
+    400368: Group#64 6
+    400370: Group#64 7
+    400372: Group#64 8
+    400374: Group#64 9
+    400376: Group#69
+    400378: Group#69 1
+    400380: Group#69 10
+    400382: Group#69 11
+    400384: Group#69 12
+    400386: Group#69 13
+    400388: Group#69 14
+    400390: Group#69 15
+    400392: Group#69 16
+    400394: Group#69 17
+    400396: Group#69 18
+    400398: Group#69 19
+    400400: Group#69 2
+    400402: Group#69 3
+    400404: Group#69 4
+    400406: Group#69 5
+    400408: Group#69 6
+    400410: Group#69 7
+    400412: Group#69 8
+    400414: Group#69 9
+    400416: Group#7
+    400418: Group#8
+    400420: Group#9
+    400422: Group023
+    400424: Group023 1
+    400426: Group023 2
+    400428: Group023 3
+    400430: Group024
+    400432: Group024 1
+    400434: Group024 2
+    400436: Group024 3
+    400438: Group1
+    400440: Group1 1
+    400442: Group1 2
+    400444: Group1 3
+    400446: Group10
+    400448: Group10 1
+    400450: Group10 2
+    400452: Group10 3
+    400454: Group16
+    400456: Group16 1
+    400458: Group16 2
+    400460: Group16 3
+    400462: Group19
+    400464: Group19 1
+    400466: Group19 2
+    400468: Group19 3
+    400470: Group2
+    400472: Group2 1
+    400474: Group2 2
+    400476: Group2 3
+    400478: Group9
+    400480: Group9 1
+    400482: Group9 2
+    400484: Group9 3
+    400486: light
+    400488: obesalnik
+    400490: obesalnik 1
+    400492: obesalnik 2
+    400494: obesalnik 3
+    400496: obesalnik 4
+    400498: obesalnik 5
+    400500: obesalnik 6
+    400502: obesalnik 7
+    400504: Object001
+    400506: Object001 1
+    400508: Object001 2
+    400510: Object001 3
+    400512: Object001 4
+    400514: Object001 5
+    400516: Object001 6
+    400518: Object001 7
+    400520: Object003
+    400522: Object003 1
+    400524: Object003 2
+    400526: Object003 3
+    400528: Object003 4
+    400530: Object003 5
+    400532: Object003 6
+    400534: Object003 7
+    400536: Object004
+    400538: Object004 1
+    400540: Object004 2
+    400542: Object004 3
+    400544: Object005
+    400546: Object005 1
+    400548: Object005 2
+    400550: Object005 3
+    400552: Rocaj2
+    400554: Rocaj2 1
+    400556: Rocaj2 2
+    400558: Rocaj2 3
+    400560: Rocaj2 4
+    400562: Rocaj2 5
+    400564: Rocaj2 6
+    400566: Rocaj2 7
+    400568: Rocaj2 8
+    400570: Rocaj2 9
+    400572: Split Brastemp Active 18000
+    400574: //RootNode
+    400576: "\uAD6C\uC131 \uC694\uC18C#5"
+    400578: "\uAE30\uB465"
+    400580: "\uAE30\uB465 1"
+    400582: "\uAE30\uB465 2"
+    400584: "\uAE30\uB465 3"
+    400586: "\uAE30\uB465 4"
+    400588: "\uAE30\uB465 5"
+    400590: "\uAE30\uB465 6"
+    400592: "\uAE30\uB465 7"
+    400594: "\uC0AC\uB2E4\uB9AC"
+    400596: "\uC0AC\uB2E4\uB9AC 1"
+    400598: Group 161
+    400600: Group 178
+    400602: Group 185
+    400604: Group 192
+    400606: Group 199
+    400608: Group 206
+    400610: Group 265
+    400612: Group 282
+    400614: Group 289
+    400616: Group 296
+    400618: Group 303
+    400620: Group 310
+    400622: Group 369
+    400624: Group 386
+    400626: Group 393
+    400628: Group 400
+    400630: Group 407
+    400632: Group 414
+    400634: Group 473
+    400636: Group 490
+    400638: Group 497
+    400640: Group 504
+    400642: Group 511
+    400644: Group 518
+    400646: Group 60
+    2100000: _defaultMat
+    2100002: '[Translucent Glass Blue]'
+    2100004: '[Wood Board Cork]'
+    2100006: '[Carpet Berber Pattern Gray]'
+    2100008: '[Wood Bamboo]'
+    2100010: '[Wood Cherry Original]'
+    2100012: _6
+    2100014: '[Color_004]'
+    2100016: '[Color_007]'
+    2100018: '[Color_C12]'
+    2100020: Wood_Bamboo_Medium
+    2100022: Color_000
+    2100024: Color_C08
+    2100026: _4
+    2100028: '[Color_008]'
+    2100030: '[Color_003]'
+    2100032: _3
+    2100034: Crown Ebony
+    2100036: Lisanne_Caulk
+    2300000: "1\uCE35"
+    2300002: "1\uCE35 1"
+    2300004: "1\uCE35 \uB9E4\uD2B8\uB9AD\uC2A4"
+    2300006: "1\uCE35 \uB9E4\uD2B8\uB9AD\uC2A4 1"
+    2300008: "2\uCE35"
+    2300010: "2\uCE35 1"
+    2300012: "2\uCE35 \uB9E4\uD2B8\uB9AD\uC2A4"
+    2300014: "2\uCE35 \uB9E4\uD2B8\uB9AD\uC2A4 1"
+    2300016: "2\uCE35 \uCE78\uB9C9\uC774"
+    2300018: "2\uCE35 \uCE78\uB9C9\uC774 1"
+    2300020: Box001
+    2300022: Box001 1
+    2300024: Box001 2
+    2300026: Box001 3
+    2300028: Box001 4
+    2300030: Box001 5
+    2300032: Box001 6
+    2300034: Box001 7
+    2300036: Box002
+    2300038: Box002 1
+    2300040: Box002 2
+    2300042: Box002 3
+    2300044: Box002 4
+    2300046: Box002 5
+    2300048: Box002 6
+    2300050: Box002 7
+    2300052: Box003
+    2300054: Box003 1
+    2300056: Box003 2
+    2300058: Box003 3
+    2300060: Box003 4
+    2300062: Box003 5
+    2300064: Box003 6
+    2300066: Box003 7
+    2300068: Box004
+    2300070: Box004 1
+    2300072: Box004 2
+    2300074: Box004 3
+    2300076: Box005
+    2300078: Box005 1
+    2300080: Box005 2
+    2300082: Box005 3
+    2300084: Box006
+    2300086: Box006 1
+    2300088: Box006 2
+    2300090: Box006 3
+    2300092: Box007
+    2300094: Box007 1
+    2300096: Box007 2
+    2300098: Box007 3
+    2300100: Closet1
+    2300102: Closet1 1
+    2300104: Cylin10
+    2300106: Cylin10 1
+    2300108: Cylin10 2
+    2300110: Cylin10 3
+    2300112: Cylin5
+    2300114: Cylin5 1
+    2300116: Cylin5 2
+    2300118: Cylin5 3
+    2300120: Cylin7
+    2300122: Cylin7 1
+    2300124: Cylin7 2
+    2300126: Cylin7 3
+    2300128: Cylin9
+    2300130: Cylin9 1
+    2300132: Cylin9 2
+    2300134: Cylin9 3
+    2300136: Cylin9 4
+    2300138: Cylin9 5
+    2300140: Cylin9 6
+    2300142: Cylin9 7
+    2300144: Group 10
+    2300146: Group 157
+    2300148: Group 159
+    2300150: Group 176
+    2300152: Group 183
+    2300154: Group 190
+    2300156: Group 197
+    2300158: Group 204
+    2300160: Group 24
+    2300162: Group 26
+    2300164: Group 261
+    2300166: Group 263
+    2300168: Group 28
+    2300170: Group 280
+    2300172: Group 287
+    2300174: Group 294
+    2300176: Group 30
+    2300178: Group 301
+    2300180: Group 308
+    2300182: Group 365
+    2300184: Group 367
+    2300186: Group 384
+    2300188: Group 391
+    2300190: Group 398
+    2300192: Group 405
+    2300194: Group 412
+    2300196: Group 469
+    2300198: Group 471
+    2300200: Group 488
+    2300202: Group 495
+    2300204: Group 502
+    2300206: Group 509
+    2300208: Group 516
+    2300210: Group 52
+    2300212: Group 54
+    2300214: Group 56
+    2300216: Group 58
+    2300218: Group#1
+    2300220: Group#10
+    2300222: Group#11
+    2300224: Group#12
+    2300226: Group#13
+    2300228: Group#14
+    2300230: Group#15
+    2300232: Group#16
+    2300234: Group#17
+    2300236: Group#18
+    2300238: Group#19
+    2300240: Group#2
+    2300242: Group#20
+    2300244: Group#21
+    2300246: Group#22
+    2300248: Group#3
+    2300250: Group#4
+    2300252: Group#45
+    2300254: Group#45 1
+    2300256: Group#45 2
+    2300258: Group#45 3
+    2300260: Group#45 4
+    2300262: Group#45 5
+    2300264: Group#45 6
+    2300266: Group#45 7
+    2300268: Group#5
+    2300270: Group#6
+    2300272: Group#64
+    2300274: Group#64 1
+    2300276: Group#64 10
+    2300278: Group#64 11
+    2300280: Group#64 12
+    2300282: Group#64 13
+    2300284: Group#64 14
+    2300286: Group#64 15
+    2300288: Group#64 16
+    2300290: Group#64 17
+    2300292: Group#64 18
+    2300294: Group#64 19
+    2300296: Group#64 2
+    2300298: Group#64 20
+    2300300: Group#64 21
+    2300302: Group#64 22
+    2300304: Group#64 23
+    2300306: Group#64 24
+    2300308: Group#64 25
+    2300310: Group#64 26
+    2300312: Group#64 27
+    2300314: Group#64 28
+    2300316: Group#64 29
+    2300318: Group#64 3
+    2300320: Group#64 30
+    2300322: Group#64 31
+    2300324: Group#64 32
+    2300326: Group#64 33
+    2300328: Group#64 34
+    2300330: Group#64 35
+    2300332: Group#64 36
+    2300334: Group#64 37
+    2300336: Group#64 38
+    2300338: Group#64 39
+    2300340: Group#64 4
+    2300342: Group#64 5
+    2300344: Group#64 6
+    2300346: Group#64 7
+    2300348: Group#64 8
+    2300350: Group#64 9
+    2300352: Group#7
+    2300354: Group#8
+    2300356: Group#9
+    2300358: Group023
+    2300360: Group023 1
+    2300362: Group023 2
+    2300364: Group023 3
+    2300366: Group024
+    2300368: Group024 1
+    2300370: Group024 2
+    2300372: Group024 3
+    2300374: Group1
+    2300376: Group1 1
+    2300378: Group1 2
+    2300380: Group1 3
+    2300382: Group10
+    2300384: Group10 1
+    2300386: Group10 2
+    2300388: Group10 3
+    2300390: Group16
+    2300392: Group16 1
+    2300394: Group16 2
+    2300396: Group16 3
+    2300398: Group19
+    2300400: Group19 1
+    2300402: Group19 2
+    2300404: Group19 3
+    2300406: Group2
+    2300408: Group2 1
+    2300410: Group2 2
+    2300412: Group2 3
+    2300414: Group9
+    2300416: Group9 1
+    2300418: Group9 2
+    2300420: Group9 3
+    2300422: light
+    2300424: obesalnik
+    2300426: obesalnik 1
+    2300428: obesalnik 2
+    2300430: obesalnik 3
+    2300432: obesalnik 4
+    2300434: obesalnik 5
+    2300436: obesalnik 6
+    2300438: obesalnik 7
+    2300440: Object001
+    2300442: Object001 1
+    2300444: Object001 2
+    2300446: Object001 3
+    2300448: Object001 4
+    2300450: Object001 5
+    2300452: Object001 6
+    2300454: Object001 7
+    2300456: Object003
+    2300458: Object003 1
+    2300460: Object003 2
+    2300462: Object003 3
+    2300464: Object003 4
+    2300466: Object003 5
+    2300468: Object003 6
+    2300470: Object003 7
+    2300472: Object004
+    2300474: Object004 1
+    2300476: Object004 2
+    2300478: Object004 3
+    2300480: Object005
+    2300482: Object005 1
+    2300484: Object005 2
+    2300486: Object005 3
+    2300488: Rocaj2
+    2300490: Rocaj2 1
+    2300492: Rocaj2 2
+    2300494: Rocaj2 3
+    2300496: Rocaj2 4
+    2300498: Rocaj2 5
+    2300500: Rocaj2 6
+    2300502: Rocaj2 7
+    2300504: Rocaj2 8
+    2300506: Rocaj2 9
+    2300508: //RootNode
+    2300510: "\uAE30\uB465"
+    2300512: "\uAE30\uB465 1"
+    2300514: "\uAE30\uB465 2"
+    2300516: "\uAE30\uB465 3"
+    2300518: "\uAE30\uB465 4"
+    2300520: "\uAE30\uB465 5"
+    2300522: "\uAE30\uB465 6"
+    2300524: "\uAE30\uB465 7"
+    2300526: "\uC0AC\uB2E4\uB9AC"
+    2300528: "\uC0AC\uB2E4\uB9AC 1"
+    2300530: Group 161
+    2300532: Group 178
+    2300534: Group 185
+    2300536: Group 192
+    2300538: Group 199
+    2300540: Group 206
+    2300542: Group 265
+    2300544: Group 282
+    2300546: Group 289
+    2300548: Group 296
+    2300550: Group 303
+    2300552: Group 310
+    2300554: Group 369
+    2300556: Group 386
+    2300558: Group 393
+    2300560: Group 400
+    2300562: Group 407
+    2300564: Group 414
+    2300566: Group 473
+    2300568: Group 490
+    2300570: Group 497
+    2300572: Group 504
+    2300574: Group 511
+    2300576: Group 518
+    2300578: Group 60
+    3300000: "1\uCE35"
+    3300002: "1\uCE35 1"
+    3300004: "1\uCE35 \uB9E4\uD2B8\uB9AD\uC2A4"
+    3300006: "1\uCE35 \uB9E4\uD2B8\uB9AD\uC2A4 1"
+    3300008: "2\uCE35"
+    3300010: "2\uCE35 1"
+    3300012: "2\uCE35 \uB9E4\uD2B8\uB9AD\uC2A4"
+    3300014: "2\uCE35 \uB9E4\uD2B8\uB9AD\uC2A4 1"
+    3300016: "2\uCE35 \uCE78\uB9C9\uC774"
+    3300018: "2\uCE35 \uCE78\uB9C9\uC774 1"
+    3300020: Box001
+    3300022: Box001 1
+    3300024: Box001 2
+    3300026: Box001 3
+    3300028: Box001 4
+    3300030: Box001 5
+    3300032: Box001 6
+    3300034: Box001 7
+    3300036: Box002
+    3300038: Box002 1
+    3300040: Box002 2
+    3300042: Box002 3
+    3300044: Box002 4
+    3300046: Box002 5
+    3300048: Box002 6
+    3300050: Box002 7
+    3300052: Box003
+    3300054: Box003 1
+    3300056: Box003 2
+    3300058: Box003 3
+    3300060: Box003 4
+    3300062: Box003 5
+    3300064: Box003 6
+    3300066: Box003 7
+    3300068: Box004
+    3300070: Box004 1
+    3300072: Box004 2
+    3300074: Box004 3
+    3300076: Box005
+    3300078: Box005 1
+    3300080: Box005 2
+    3300082: Box005 3
+    3300084: Box006
+    3300086: Box006 1
+    3300088: Box006 2
+    3300090: Box006 3
+    3300092: Box007
+    3300094: Box007 1
+    3300096: Box007 2
+    3300098: Box007 3
+    3300100: Closet1
+    3300102: Closet1 1
+    3300104: Cylin10
+    3300106: Cylin10 1
+    3300108: Cylin10 2
+    3300110: Cylin10 3
+    3300112: Cylin5
+    3300114: Cylin5 1
+    3300116: Cylin5 2
+    3300118: Cylin5 3
+    3300120: Cylin7
+    3300122: Cylin7 1
+    3300124: Cylin7 2
+    3300126: Cylin7 3
+    3300128: Cylin9
+    3300130: Cylin9 1
+    3300132: Cylin9 2
+    3300134: Cylin9 3
+    3300136: Cylin9 4
+    3300138: Cylin9 5
+    3300140: Cylin9 6
+    3300142: Cylin9 7
+    3300144: Group 10
+    3300146: Group 157
+    3300148: Group 159
+    3300150: Group 176
+    3300152: Group 183
+    3300154: Group 190
+    3300156: Group 197
+    3300158: Group 204
+    3300160: Group 24
+    3300162: Group 26
+    3300164: Group 261
+    3300166: Group 263
+    3300168: Group 28
+    3300170: Group 280
+    3300172: Group 287
+    3300174: Group 294
+    3300176: Group 30
+    3300178: Group 301
+    3300180: Group 308
+    3300182: Group 365
+    3300184: Group 367
+    3300186: Group 384
+    3300188: Group 391
+    3300190: Group 398
+    3300192: Group 405
+    3300194: Group 412
+    3300196: Group 469
+    3300198: Group 471
+    3300200: Group 488
+    3300202: Group 495
+    3300204: Group 502
+    3300206: Group 509
+    3300208: Group 516
+    3300210: Group 52
+    3300212: Group 54
+    3300214: Group 56
+    3300216: Group 58
+    3300218: Group#1
+    3300220: Group#10
+    3300222: Group#11
+    3300224: Group#12
+    3300226: Group#13
+    3300228: Group#14
+    3300230: Group#15
+    3300232: Group#16
+    3300234: Group#17
+    3300236: Group#18
+    3300238: Group#19
+    3300240: Group#2
+    3300242: Group#20
+    3300244: Group#21
+    3300246: Group#22
+    3300248: Group#3
+    3300250: Group#4
+    3300252: Group#45
+    3300254: Group#45 1
+    3300256: Group#45 2
+    3300258: Group#45 3
+    3300260: Group#45 4
+    3300262: Group#45 5
+    3300264: Group#45 6
+    3300266: Group#45 7
+    3300268: Group#5
+    3300270: Group#6
+    3300272: Group#64
+    3300274: Group#64 1
+    3300276: Group#64 10
+    3300278: Group#64 11
+    3300280: Group#64 12
+    3300282: Group#64 13
+    3300284: Group#64 14
+    3300286: Group#64 15
+    3300288: Group#64 16
+    3300290: Group#64 17
+    3300292: Group#64 18
+    3300294: Group#64 19
+    3300296: Group#64 2
+    3300298: Group#64 20
+    3300300: Group#64 21
+    3300302: Group#64 22
+    3300304: Group#64 23
+    3300306: Group#64 24
+    3300308: Group#64 25
+    3300310: Group#64 26
+    3300312: Group#64 27
+    3300314: Group#64 28
+    3300316: Group#64 29
+    3300318: Group#64 3
+    3300320: Group#64 30
+    3300322: Group#64 31
+    3300324: Group#64 32
+    3300326: Group#64 33
+    3300328: Group#64 34
+    3300330: Group#64 35
+    3300332: Group#64 36
+    3300334: Group#64 37
+    3300336: Group#64 38
+    3300338: Group#64 39
+    3300340: Group#64 4
+    3300342: Group#64 5
+    3300344: Group#64 6
+    3300346: Group#64 7
+    3300348: Group#64 8
+    3300350: Group#64 9
+    3300352: Group#7
+    3300354: Group#8
+    3300356: Group#9
+    3300358: Group023
+    3300360: Group023 1
+    3300362: Group023 2
+    3300364: Group023 3
+    3300366: Group024
+    3300368: Group024 1
+    3300370: Group024 2
+    3300372: Group024 3
+    3300374: Group1
+    3300376: Group1 1
+    3300378: Group1 2
+    3300380: Group1 3
+    3300382: Group10
+    3300384: Group10 1
+    3300386: Group10 2
+    3300388: Group10 3
+    3300390: Group16
+    3300392: Group16 1
+    3300394: Group16 2
+    3300396: Group16 3
+    3300398: Group19
+    3300400: Group19 1
+    3300402: Group19 2
+    3300404: Group19 3
+    3300406: Group2
+    3300408: Group2 1
+    3300410: Group2 2
+    3300412: Group2 3
+    3300414: Group9
+    3300416: Group9 1
+    3300418: Group9 2
+    3300420: Group9 3
+    3300422: light
+    3300424: obesalnik
+    3300426: obesalnik 1
+    3300428: obesalnik 2
+    3300430: obesalnik 3
+    3300432: obesalnik 4
+    3300434: obesalnik 5
+    3300436: obesalnik 6
+    3300438: obesalnik 7
+    3300440: Object001
+    3300442: Object001 1
+    3300444: Object001 2
+    3300446: Object001 3
+    3300448: Object001 4
+    3300450: Object001 5
+    3300452: Object001 6
+    3300454: Object001 7
+    3300456: Object003
+    3300458: Object003 1
+    3300460: Object003 2
+    3300462: Object003 3
+    3300464: Object003 4
+    3300466: Object003 5
+    3300468: Object003 6
+    3300470: Object003 7
+    3300472: Object004
+    3300474: Object004 1
+    3300476: Object004 2
+    3300478: Object004 3
+    3300480: Object005
+    3300482: Object005 1
+    3300484: Object005 2
+    3300486: Object005 3
+    3300488: Rocaj2
+    3300490: Rocaj2 1
+    3300492: Rocaj2 2
+    3300494: Rocaj2 3
+    3300496: Rocaj2 4
+    3300498: Rocaj2 5
+    3300500: Rocaj2 6
+    3300502: Rocaj2 7
+    3300504: Rocaj2 8
+    3300506: Rocaj2 9
+    3300508: //RootNode
+    3300510: "\uAE30\uB465"
+    3300512: "\uAE30\uB465 1"
+    3300514: "\uAE30\uB465 2"
+    3300516: "\uAE30\uB465 3"
+    3300518: "\uAE30\uB465 4"
+    3300520: "\uAE30\uB465 5"
+    3300522: "\uAE30\uB465 6"
+    3300524: "\uAE30\uB465 7"
+    3300526: "\uC0AC\uB2E4\uB9AC"
+    3300528: "\uC0AC\uB2E4\uB9AC 1"
+    3300530: Group 161
+    3300532: Group 178
+    3300534: Group 185
+    3300536: Group 192
+    3300538: Group 199
+    3300540: Group 206
+    3300542: Group 265
+    3300544: Group 282
+    3300546: Group 289
+    3300548: Group 296
+    3300550: Group 303
+    3300552: Group 310
+    3300554: Group 369
+    3300556: Group 386
+    3300558: Group 393
+    3300560: Group 400
+    3300562: Group 407
+    3300564: Group 414
+    3300566: Group 473
+    3300568: Group 490
+    3300570: Group 497
+    3300572: Group 504
+    3300574: Group 511
+    3300576: Group 518
+    3300578: Group 60
+    4300000: "Mesh \uAD6C\uAD00 4\uC778\uC2E4"
+    4300002: "Mesh 1\uCE35 \uB9E4\uD2B8\uB9AD\uC2A4"
+    4300004: "Mesh 2\uCE35 \uB9E4\uD2B8\uB9AD\uC2A4"
+    4300006: "Mesh \uC0AC\uB2E4\uB9AC"
+    4300008: "Mesh 2\uCE35 \uCE78\uB9C9\uC774"
+    4300010: Mesh Group 10
+    4300012: "Mesh \uAE30\uB465"
+    4300014: "Mesh \uAE30\uB465"
+    4300016: "Mesh 2\uCE35"
+    4300018: "Mesh 1\uCE35"
+    4300020: Mesh Group 24
+    4300022: Mesh Group 52
+    4300024: Mesh Group 54
+    4300026: Mesh Group 56
+    4300028: Mesh Group 58
+    4300030: Mesh Group#22
+    4300032: Mesh Group#12
+    4300034: Mesh Group#15
+    4300036: Mesh Group#18
+    4300038: Mesh Group#19
+    4300040: Mesh Group#17
+    4300042: Mesh Group#13
+    4300044: Mesh Group#14
+    4300046: Mesh Group#20
+    4300048: Mesh Group#1
+    4300050: Mesh Group#2
+    4300052: Mesh Group#3
+    4300054: Mesh Group#4
+    4300056: Mesh Group#5
+    4300058: Mesh Group#6
+    4300060: Mesh Group#7
+    4300062: Mesh Group#10
+    4300064: Mesh Group#9
+    4300066: Mesh Group#8
+    4300068: Mesh Group#21
+    4300070: Mesh Group#16
+    4300072: Mesh Group#11
+    4300074: Mesh Closet1
+    4300076: Mesh Rocaj2
+    4300078: Mesh obesalnik
+    4300080: Mesh Box004
+    4300082: Mesh Box007
+    4300084: Mesh Cylin7
+    4300086: Mesh Cylin10
+    4300088: Mesh Cylin5
+    4300090: Mesh Group 157
+    4300092: Mesh Group 159
+    4300094: Mesh Object005
+    4300096: Mesh Box006
+    4300098: Mesh Object004
+    4300100: Mesh Group023
+    4300102: Mesh Box005
+    4300104: Mesh Group9
+    4300106: Mesh Group024
+    4300108: Mesh Group 176
+    4300110: Mesh Group#64
+    4300112: Mesh Group1
+    4300114: Mesh Group10
+    4300116: Mesh Group16
+    4300118: Mesh Group19
+    4300120: Mesh Group2
+    4300122: Mesh Group#45
+    4300124: Mesh Box001
+    4300126: Mesh Cylin9
+    4300128: Mesh Box003
+    4300130: Mesh Object003
+    4300132: Mesh Object001
+    4300134: Mesh Box002
+    4300136: Mesh light
+    4300138: Mesh Group 60
+    4300140: Mesh Group 161
+    4300142: Mesh Group 178
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
