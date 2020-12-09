@@ -1,2 +1,4 @@
-# Sunmoon_Dormitory_VR
-종합프로젝트 4조
+VR로 둘러보는 기숙사
+======================
+Dormitory visit system using VR
+----------------------------
